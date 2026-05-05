@@ -1,2 +1,3 @@
 # comment that says hello world
-print("Hello World!")
+text = "Hello World"
+print(text)
